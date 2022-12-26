@@ -7,7 +7,7 @@
 <br><br>
   <b>Interested in ...</b>
  <br>
-  Data Analyst | Data Science | Software Engineer | Machine Learning
+  Data Analyst | Data Science | Software Engineer | Machine Learning | Deep Learning
 </div>
 
 ---
@@ -17,7 +17,7 @@
   border-image: linear-gradient(to bottom right, #b827fc 0%, #2c90fc 25%, #b8fd33 50%, #fec837 75%, #fd1892 100%);
   border-image-slice: 1; padding-bottom:3em; padding-left: 2em; padding-right:2em;">
 <h1>🛠 THINGS I'VE USED 🛠</h1>
-<h3> LANGUAGES & TOOLS </h3>
+<h3> Languages & Tools </h3>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
       <img
         src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"
@@ -60,7 +60,7 @@
       height="30"
     />
   </a>
-  <h3> ML & DL </h3>
+  <h3> Machine Learning & Deep Learning </h3>
   <a href="https://keras.io/" target="_blank" rel="noreferrer">
       <img
         src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"
