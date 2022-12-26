@@ -118,6 +118,17 @@
       />
     </a>
 </div>
+---
+
+<div align="center" style="   background-color: white;
+  border: 5px solid transparent;
+  border-image: linear-gradient(to bottom right, #b827fc 0%, #2c90fc 25%, #b8fd33 50%, #fec837 75%, #fd1892 100%);
+  border-image-slice: 1; padding-bottom:3em; padding-left: 2em; padding-right:2em;">
+ <h1>📈 STATISTIC 📉</h1>
+<img src="https://github-readme-stats.vercel.app/api?username=angelpatriciads&show_icons=true&theme=blueberry&border_radius=5&hide_border=true&count_private=true" align=center>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=angelpatriciads&theme=blueberry&border_radius=5&hide_border=true" align=center>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelpatriciads&layout=compact&theme=blueberry&border_radius=5&hide_border=true" align=center>
+
 
 ---
 
