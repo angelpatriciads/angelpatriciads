@@ -16,7 +16,8 @@
   border: 5px solid transparent;
   border-image: linear-gradient(to bottom right, #b827fc 0%, #2c90fc 25%, #b8fd33 50%, #fec837 75%, #fd1892 100%);
   border-image-slice: 1; padding-bottom:3em; padding-left: 2em; padding-right:2em;">
-<h1>TOOLS AND LANGUAGES</h1>
+<h1>THINGS I'VE USED</h1>
+<h3> LANGUAGES & TOOLS </h3>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
       <img
         src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"
@@ -38,3 +39,104 @@
       height="30"
     />
   </a>
+      <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"
+      alt="R"
+      height="30"
+    />
+    </a>
+      <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"
+      alt="LaTeX"
+      height="30"
+    />
+  </a>
+        <a href="https://octave.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683"
+      alt="Octave"
+      height="30"
+    />
+  </a>
+  <h3> ML & DL </h3>
+  <a href="https://keras.io/" target="_blank" rel="noreferrer">
+      <img
+        src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"
+        alt="Keras"
+        height="30"
+      />
+    </a>
+    <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+      <img
+        src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"
+        alt="Matplotlib"
+        height="30"
+      />
+    </a>
+      <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+      <img
+        src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"
+        alt="NumPy"
+        height="30"
+      />
+    </a>
+        <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+      <img
+        src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"
+        alt="Pandas"
+        height="30"
+      />
+              </a>
+        <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer">
+      <img
+        src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"
+        alt="Scikit Learn"
+        height="30"
+      />
+    </a>
+          <a href="https://scipy.org/" target="_blank" rel="noreferrer">
+      <img
+        src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white"
+        alt="Scipy"
+        height="30"
+      />
+    </a>
+            <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+      <img
+        src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"
+        alt="TensorFlow"
+        height="30"
+      />
+    </a>
+              <a href="https://opencv.org/" target="_blank" rel="noreferrer">
+      <img
+        src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"
+        alt="OpenCV"
+        height="30"
+      />
+    </a>
+</div>
+
+---
+
+<div align="center" style="   background-color: white;
+  border: 5px solid transparent;
+  border-image: linear-gradient(to bottom right, #b827fc 0%, #2c90fc 25%, #b8fd33 50%, #fec837 75%, #fd1892 100%);
+  border-image-slice: 1; padding-bottom:3em; padding-left: 2em; padding-right:2em;">
+ <h1>REACH ME OUT</h1>
+  <a href="mailto:angelpatriciads@gmail.com" target="_blank" rel="noreferrer">
+      <img
+        src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+        alt="Gmail"
+        height="30"
+      />
+    </a>
+    <a href="https://www.linkedin.com/in/angelica-patricia/" target="_blank" rel="noreferrer">
+      <img
+        src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+        alt="LinkedIn"
+        height="30"
+      />
+    </a>
