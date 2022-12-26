@@ -2,7 +2,7 @@
   border: 5px solid transparent;
   border-image: linear-gradient(to bottom right, #b827fc 0%, #2c90fc 25%, #b8fd33 50%, #fec837 75%, #fd1892 100%);
   border-image-slice: 1; padding-bottom:3em; padding-left: 2em; padding-right:2em;">
-<h1>ANGEL, HERE!</h1>
+<h1>👋 ANGEL, HERE! 👋</h1>
   I am a <b>mathematics student</b> currently studying at Universitas Indonesia. <b>Thinking critically with innovative ideas</b> are my expertise. Using my abilities to <b>analyze complex systems and data to find a solution</b> to the problems. But from all of that, I want to keep learning to get more knowledge and experience so I can be better. Also very interested in establishing my own startup to build a successful business.
 <br><br>
   <b>Interested in ...</b>
@@ -16,7 +16,7 @@
   border: 5px solid transparent;
   border-image: linear-gradient(to bottom right, #b827fc 0%, #2c90fc 25%, #b8fd33 50%, #fec837 75%, #fd1892 100%);
   border-image-slice: 1; padding-bottom:3em; padding-left: 2em; padding-right:2em;">
-<h1>THINGS I'VE USED</h1>
+<h1>🛠 THINGS I'VE USED 🛠</h1>
 <h3> LANGUAGES & TOOLS </h3>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
       <img
@@ -125,7 +125,7 @@
   border: 5px solid transparent;
   border-image: linear-gradient(to bottom right, #b827fc 0%, #2c90fc 25%, #b8fd33 50%, #fec837 75%, #fd1892 100%);
   border-image-slice: 1; padding-bottom:3em; padding-left: 2em; padding-right:2em;">
- <h1>REACH ME OUT</h1>
+ <h1>📩 REACH ME OUT 📩</h1>
   <a href="mailto:angelpatriciads@gmail.com" target="_blank" rel="noreferrer">
       <img
         src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
@@ -140,3 +140,4 @@
         height="30"
       />
     </a>
+ </div>
