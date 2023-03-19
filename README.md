@@ -25,6 +25,13 @@
         height="30"
       />
     </a>
+  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
+      <img
+        src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"
+        alt="Swift"
+        height="30"
+      />
+    </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/mysql-003545.svg?style=for-the-badge&logo=mysql&logoColor=white"
@@ -36,6 +43,25 @@
     <img
       src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"
       alt="Microsoft Office"
+      height="30"
+    />
+  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"
+      alt="JavaScript"
+      height="30"
+    />
+  </a>
+    <a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
+      alt="HTML"
+      height="30"
+    />
+      <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
+      alt="CSS"
       height="30"
     />
   </a>
